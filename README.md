@@ -10,7 +10,7 @@ The original data set can be downloaded from here: https://d396qusza40orc.cloudf
 
 
 
-The R.script `run_analysis.R` aimes to clean the original data sets and create a new tidy data set by doing the following:
+The R.script `run_analysis.R` aimes to clean the original data sets and create a new tidy data set, `avg_dat.txt`, by doing the following:
 
 1) Load and merge the training and the test sets.
 
